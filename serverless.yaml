@@ -42,6 +42,3 @@ functions:
       - http:
           path: ping
           method: get
-
-
-
